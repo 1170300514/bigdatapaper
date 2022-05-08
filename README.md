@@ -18,3 +18,8 @@ https://www.linkedin.com/pulse/100-open-source-big-data-architecture-papers-anil
 
 PayPal高级工程总监：读完这100篇论文 就能成大数据高手-CSDN.NET
 http://www.csdn.net/article/2015-07-07/2825148/1
+
+
+# GuideLine
+
+[知乎上答主翻译的一篇大数据经典论文GuideLine](https://zhuanlan.zhihu.com/p/28744698)
